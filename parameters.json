@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "type": "deploy",
+    "info": {
+        "name": "My first deploy block",
+        "description": "Build a standalone Linux application",
+        "category": "firmware",
+        "mountLearnBlock": false,
+        "supportsEonCompiler": true,
+        "showOptimizations": true,
+        "cliArguments": "",
+        "privileged": false
+    }
+}

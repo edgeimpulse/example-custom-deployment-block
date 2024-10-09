@@ -1,0 +1,4 @@
+.ei-block-config
+output/
+input/
+.DS_Store
